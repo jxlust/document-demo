@@ -1,19 +1,14 @@
-# xxxx Documentation
+#  Documentation demo
 
 Online URL：https://www.xxxx.io/
 
 ## Getting Started
 
-Git clone
-
-```bash
-$ git clone https://github.com/xxxx/xxxx-documentation.git
-```
 
 Install dependencies,
 
 ```bash
-$ npm i or yarn
+$ pnpm install or yarn
 ```
 
 Start the dev server,
